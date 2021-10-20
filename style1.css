@@ -1,0 +1,20 @@
+#bg1{
+  background-color: coral;
+  color:white;
+}
+
+#bg2{
+  background-color: Crimson;
+  color:white;
+}
+
+#bg3{
+  background-color: teal;
+  color:white;
+}
+
+
+
+.img-fluid{
+  border-radius: 10%
+}
