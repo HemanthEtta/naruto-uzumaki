@@ -1,0 +1,83 @@
+#ns{
+  border: 4px solid maroon;
+}
+
+#nu{
+  background-color: coral;
+  color: white;
+}
+
+.red{
+  background-color: red;
+    color: white;
+  height: 10vh;
+}
+
+.coral{
+  background-color: coral;
+  color: white;
+  height: 10vh;
+}
+
+.green
+{
+  background-color: green;
+  color: white;
+  height: 10vh;
+}
+
+
+span{
+font-size: 50px;
+
+  color:red;
+
+}
+
+
+#nm{
+  background-color: teal;
+  color: white;
+}
+
+#an{
+  background-color: coral;
+  color: yellow;
+}
+
+#ho{
+  border-radius: 100px
+}
+
+p:hover
+{
+font-size: 30px;
+color: Crimson;
+  background-color: LightSeaGreen;
+
+}
+
+img:hover
+{
+  opacity: 0.5
+}
+
+#su{
+  background-color: MediumVioletRed;
+  color: white;
+}
+
+
+#sa{
+  background-color: Crimson;
+  color: AntiqueWhite;
+}
+
+#kh{
+  background-color: Indigo;
+  color: AntiqueWhite;
+
+
+#mc{
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,48,9,1) 0%, rgba(255,109,0,1) 100%);
+}
